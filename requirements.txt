@@ -1,0 +1,2 @@
+# Žiadne externé závislosti pre tento projekt
+# (čisté Python riešenie)
